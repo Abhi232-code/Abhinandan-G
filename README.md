@@ -1,4 +1,3 @@
-Abhi232-code/README.md
 
 <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px;">
   Hi 👋, I'm Abhinandan G
